@@ -1,0 +1,72 @@
+!SESSION 2015-05-22 13:40:11.647 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.171
+!MESSAGE NLS missing message: ClassPrepareBreakpointTypeChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.172
+!MESSAGE NLS missing message: DeleteBreakpointChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.172
+!MESSAGE NLS missing message: ExceptionBreakpointTypeChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.172
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.173
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_1 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.173
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_2 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.173
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_3 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.174
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_4 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.174
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_5 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.175
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_6 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.175
+!MESSAGE NLS missing message: LaunchConfigurationProjectMainTypeChange_7 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.175
+!MESSAGE NLS missing message: BreakpointRenameParticipant_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.176
+!MESSAGE NLS missing message: BreakpointRenameParticipant_1 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.176
+!MESSAGE NLS missing message: LaunchConfigurationParticipant_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.177
+!MESSAGE NLS missing message: LineBreakpointTypeChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.177
+!MESSAGE NLS missing message: LineBreakpointTypeChange_1 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.177
+!MESSAGE NLS missing message: MethodBreakpointMethodChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.178
+!MESSAGE NLS missing message: MethodBreakpointTypeChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.178
+!MESSAGE NLS missing message: MethodBreakpointTypeChange_1 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.179
+!MESSAGE NLS missing message: WatchpointFieldChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.179
+!MESSAGE NLS missing message: WatchpointTypeChange_0 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-05-22 14:18:28.179
+!MESSAGE NLS missing message: WatchpointTypeChange_1 in: org.eclipse.jdt.internal.debug.core.refactoring.RefactoringMessages
